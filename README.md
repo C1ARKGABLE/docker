@@ -1,11 +1,11 @@
 # OctoPrint-docker [![Build Status](https://travis-ci.org/OctoPrint/docker.svg?branch=master)](https://travis-ci.org/OctoPrint/docker)
 
-This repository contains everything you need to run [Octoprint](https://github.com/foosel/OctoPrint) in a docker environment.
+This repository contains everything you need to run [Octoprint](https://github.com/C1ARKGABLE/OctoPrint) in a docker environment.
 
 # Getting started
 
 ```
-git clone https://github.com/OctoPrint/docker.git octoprint-docker && cd octoprint-docker
+git clone https://github.com/C1ARKGABLE/docker.git octoprint-docker && cd octoprint-docker
 
 # search for you 3D printer serial port (usually it's /dev/ttyUSB0 or /dev/ttyACM0)
 ls /dev | grep tty
